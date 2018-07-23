@@ -1,0 +1,16 @@
+# Hall of Counters
+
+Accurate up to 2144 k get.
+
+[Hall of Counters Progression Graph](https://www.reddit.com/r/counting/wiki/hoc_graph)
+
+Other sized halls:
+
+* [Full list](https://www.reddit.com/r/artbn_bots/wiki/rc_hoc).
+* [Top 1000](https://www.reddit.com/r/artbn_bots/wiki/rc_hoc_1000)
+* [Top 500](https://www.reddit.com/r/artbn_bots/wiki/rc_hoc_500)
+* [Top 250](https://www.reddit.com/r/artbn_bots/wiki/rc_hoc_250)
+* [Top 100](https://www.reddit.com/r/artbn_bots/wiki/rc_hoc_100)
+
+Rank|User|Counts
+:--|:--|:--
